@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "node autocannon/autocannon.js",
-    "start": "0x server.js"
+    "dev": "0x server.js",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
